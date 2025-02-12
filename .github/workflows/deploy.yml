@@ -1,4 +1,4 @@
-name: CD Pipeline
+name: cd pipeline
 on:
   push:
     branches: [main]
